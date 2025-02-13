@@ -1,5 +1,5 @@
 👋 Hi, I’m @LukeVergone\
-🌱 I’m currently learning python, and coding/programming principles in general.\
+🌱 I’m currently learning python, C#, SQL and general coding/programming principles.\
 💞️ I’m looking to collaborate on anything i'm able to at this stage. I'm still learning the basics.\
 😄 Pronouns: He/Him
 <!---
